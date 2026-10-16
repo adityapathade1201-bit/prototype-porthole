@@ -1,0 +1,8 @@
+# AI-Based Intelligent Pothole Detection and Road Accountability System
+# Requirements specification for prototype MVP
+
+streamlit>=1.30.0
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+pandas>=2.0.0
